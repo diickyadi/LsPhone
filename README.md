@@ -1,4 +1,4 @@
-# LS Phone — Website Penjualan Smartphone
+# LS Phone - Website Penjualan Smartphone
 
 LS Phone merupakan website penjualan smartphone berbasis Laravel yang menyediakan informasi produk, katalog smartphone, dan pengelolaan konten melalui dashboard admin.
 
